@@ -5,7 +5,7 @@ try {
 	$myclient = new ET_Client();	
 
 	$DataExtensionCustomerKey = "sampleDataImport";
-	$CSVFileName = "SDKExample.csv";
+	$CSVFileName = "T_ZIPCODE.CSV";
 	
 	/*
 	Parameters:
